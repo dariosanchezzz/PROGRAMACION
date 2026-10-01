@@ -18,6 +18,6 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 | [calcula volumen ](Tema2/calculavolumen.java) | Este programa permite que añadas los datos de altura y radio para calcular el volumen |
 | [salario semanal](Tema2/salario.java) |Este programa calcula el salario de un empleado en 1 semana a razón de 12€ la hora y 40 horas semanales. |
 | [Conversor de Kb a Mb](Tema2/kbamb.java) | Este ejercicio es un conversor de Kb a Mb.| 
-| [ejercicio3.java](tema1/calleynumero.java) | Ejercicio 3, dice mi calle y número ficticios. |
+| [Conversor de Mb a Kb](Tema2/mbakb.java) | Este ejercicio es un conversor de Mb a Kb. |
 | [ejercicio4.java](tema1/ejercicio4.java) | El ejercicio 4 muestra una tabla con 10 palabras en inglés y su traducción al español. |
 | [ejercicio5.java](tema1/horario.java) | Ejercicio 5, muestra mi horario de clase. |
