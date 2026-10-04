@@ -1,4 +1,4 @@
-# PROGRAMACIÓN
+g# PROGRAMACIÓN
 Este repositorio incluye las actividades y prácticas llevadas a cabo en el módulo de Programación.
 ## TEMA 1 
 | Ejercicio | Descripción |
@@ -19,5 +19,7 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 | [salario semanal](Tema2/salario.java) |Este programa calcula el salario de un empleado en 1 semana a razón de 12€ la hora y 40 horas semanales. |
 | [Conversor de Kb a Mb](Tema2/kbamb.java) | Este ejercicio es un conversor de Kb a Mb.| 
 | [Conversor de Mb a Kb](Tema2/mbakb.java) | Este ejercicio es un conversor de Mb a Kb. |
-| [ejercicio4.java](tema1/ejercicio4.java) | El ejercicio 4 muestra una tabla con 10 palabras en inglés y su traducción al español. |
-| [ejercicio5.java](tema1/horario.java) | Ejercicio 5, muestra mi horario de clase. |
+| [Indicador si alguien es mayor o menor de edad ](Tema2/edad.java) | El ejercicio indica si el usuario es mayor o menor de edad. |
+| [Indicador de el mayor número](Tema2/mayornumero.java) | El ejercicio indica cual es el número con mayor valor de los 2 introducidos. |
+| [Indicador de el menor número](Tema2/menornumero.java) | El ejercicio indica cual es el número con menor valor de los 3 introducidos. |
+| [Indicador de mayor a menor de 3 números](Tema2/OrdenarTresNumeros.java) | El ejercicio indica el orden de mayor a menor de los 3 números introducidos. |
