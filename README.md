@@ -29,3 +29,4 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 | --- | --- |
 | [Divisible](Tema3/divisible.java) |Este programa indica si un número es divisible por 2 y 3. o si es divisible por 2 o 3, o si es divisible por 2 o 3 pero no por ambos. |
 | [Bisiesto](Tema3/bisiesto.java) |Este programa indica si un año es bisiesto comprobando si es divisible entre 4 o 400 afirmándolo y negándolo si no es divisible o si es divisible entre 100 pero no 400 o 4. |
+| [comprobación de suma](Tema3/random.java) |Este programa otorga al usuario de dos números y l pregunta el resultado de la suma, si es correcto incorrecto se indicará. |
