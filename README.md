@@ -31,7 +31,7 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 | [Bisiesto](Tema3/bisiesto.java) |Este programa indica si un año es bisiesto comprobando si es divisible entre 4 o 400 afirmándolo y negándolo si no es divisible o si es divisible entre 100 pero no 400 o 4. |
 | [Comprobación de suma](Tema3/random.java) |Este programa otorga al usuario de dos números y l pregunta el resultado de la suma, si es correcto incorrecto se indicará. |
 | [Asignatura a primera hora](Tema3/asignaturadia.java) |Este programa dice la asignatura que toca según los 5 días de la semana de clase, el único inconveniente es que hay que poner los nombres de los días en minúsculas sin tildes, ya que no lo detecta. |
-| [Ccapicúa?](Tema3/capicua.java) |Este programa dice si un número es capicúa o no, siendo el número positivo y de 5 cifras máximo. |
+| [¿Capicúa?](Tema3/capicua.java) |Este programa dice si un número es capicúa o no, siendo el número positivo y de 5 cifras máximo. |
 | [Operación](Tema3/operacion.java) |Este programa calcula una operación que aparecía en un enunciado del tema. |
 | [Aprobado o no](Tema3/aprobado.java) |Este programa dice si estás aprobado o no, y en caso de no estarlo tienes que introducir la nota de la recuperación  la cual si apruebas sube la nota a un 5 y si no apruebas se queda la nota anterior. |
 
