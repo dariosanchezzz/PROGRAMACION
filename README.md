@@ -43,7 +43,7 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 | [Letras](tema4/letras.java) | Este programa da aleatoriamente una letra del abecedario en minúsculas o mayúsculas según el numero resultanto de un Math.random.|
 | [Dividircadena](tema4/partir.java) | Este programa divide una cadena en 2 partes según la posición indicada. |
 | [Insertarcaracter](tema4/insertar.java) | Este programa inserta una carácter dentro de una cadena. |
-| [Insertarcadena](tema4/insertarcadena.java) | Este programa inserta una cadena dentro de otra. |
+| [Insertarencadena](tema4/insertarencadena.java) | Este programa insertar dentro de una cadena. |
 | [divideA](tema4/dividea.java) | Este programa indica cuando se encuentra la letra "a" ó "A" e indica su posición, en caso de no haber también lo indica. |
 | [Aprobado o no](tema4/aprobado.java) | Este programa indica con 5 notas si apruebas haciendo la media y también indica la nota máxima y mínima, sólo admite del 0 al 10 incluyendo decimales. |
 
