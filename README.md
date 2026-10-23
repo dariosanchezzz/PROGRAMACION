@@ -38,5 +38,13 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 | Ejercicio | Descripción |
 | --- | --- |
 | [Operación](Tema3/operacion.java) |Este programa calcula una operación que aparecía en un enunciado del tema. |
-| [Naipes](tema4/naipes.java) | Este programa da aleatoriamente una carta de la baraja francesa. |
+| [Quiniela](tema4/quiniela.java) | Este programa da aleatoriamente una quiniela en 1 2 o X cada uno con un porcentaje específico de 50, 20 y 30. |
+| [Caracteres](tema4/carac.java) | Este programa da aleatoriamente un número con Math.random y según el numero resultante se representa un carácter u otro|
+| [Letras](tema4/letras.java) | Este programa da aleatoriamente una letra del abecedario en minúsculas o mayúsculas según el numero resultanto de un Math.random.|
+| [Dividircadena](tema4/partir.java) | Este programa divide una cadena en 2 partes según la posición indicada. |
+| [Insertarcaracter](tema4/insertar.java) | Este programa inserta una carácter dentro de una cadena. |
+| [Insertarcadena](tema4/insertarcadena.java) | Este programa inserta una cadena dentro de otra. |
+| [divideA](tema4/dividea.java) | Este programa indica cuando se encuentra la letra "a" ó "A" e indica su posición, en caso de no haber también lo indica. |
+| [Aprobado o no](tema4/aprobado.java) | Este programa indica con 5 notas si apruebas haciendo la media y también indica la nota máxima y mínima, sólo admite del 0 al 10 incluyendo decimales. |
+
 
