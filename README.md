@@ -47,4 +47,17 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 | [divideA](tema4/dividea.java) | Este programa indica cuando se encuentra la letra "a" ó "A" e indica su posición, en caso de no haber también lo indica. |
 | [Aprobado o no](tema4/aprobado.java) | Este programa indica con 5 notas si apruebas haciendo la media y también indica la nota máxima y mínima, sólo admite del 0 al 10 incluyendo decimales. |
 
+## TEMA 5
+| Ejercicio | Descripción |
+| --- | --- |
+| [Cohete](Tema5/cohete.java) |Este programa simula una cuenta atrás de un cohete. |
+| [Tabla del 9](tema5/TablaDelNueve.java) | Este programa muestra la tabla de multiplicar del nueve.|
+| [notas](tema5/notas.java) | Este programa gestiona el cálculo de calificaciones y notas.|
+| [Escalera de números](tema5/EscaleraNumeros.java) | Este programa genera una escalera formada por números.|
+| [Escalera Inversa](tema5/EscaleraInversa.java) | Este programa dibuja una escalera en orden inverso.|
+| [Escalera Anidada](tema5/EscaleraAnidada.java) | Este programa muestra una estructura de escalera anidada.| 
+| [Nº Primos](tema5/NumerosPrimos.java) | Este programa calcula y muestra números primos.| 
+| [Suma 0](tema5/Suma0.java) | Este programa suma números de forma continua hasta introducir un cero.| 
+| [Es par](tema5/Espar.java) |Este programa comprueba si un número determinado es par.| 
+
 
