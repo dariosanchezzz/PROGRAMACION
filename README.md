@@ -50,7 +50,7 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 ## TEMA 5
 | Ejercicio | Descripción |
 | --- | --- |
-| [Cohete](Tema5/cohete.java) |Este programa simula una cuenta atrás de un cohete.|
+| [Cohete](tema5/cohete.java) |Este programa simula una cuenta atrás de un cohete.|
 | [Tabla del 9](tema5/TablaDelNueve.java) | Este programa muestra la tabla de multiplicar del nueve.|
 | [notas](tema5/notas.java) | Este programa gestiona el cálculo de calificaciones y notas.|
 | [Escalera de números](tema5/EscaleraNumeros.java) | Este programa genera una escalera formada por números.|
