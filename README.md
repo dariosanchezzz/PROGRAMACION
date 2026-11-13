@@ -59,5 +59,6 @@ Este repositorio incluye las actividades y prácticas llevadas a cabo en el mód
 | [Nº Primos](tema5/NumerosPrimos.java) | Este programa calcula y muestra números primos.| 
 | [Suma 0](tema5/Suma0.java) | Este programa suma números de forma continua hasta introducir un cero.| 
 | [Es par](tema5/Espar.java) |Este programa comprueba si un número determinado es par.| 
+| [Matriz](tema5/matriz.java) |Este programa imprime la matriz en cada posición sus filas por columna.| 
 
 
